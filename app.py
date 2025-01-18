@@ -121,4 +121,4 @@ def speech_to_text(audio_bytes):
     return "This is a placeholder for user speech input."
 
 if _name_ == "_main_":
-    main()
+    main()
