@@ -1,7 +1,6 @@
 tempfile
 os
 openai==1.58
-python-dotenv==1.0.0
 autogen
 streamlit==1.27.2
 audio-recorder-streamlit==0.2.0
