@@ -1,6 +1,6 @@
 tempfile
 os
-openai==0.27.0
+openai
 python-dotenv==1.0.0
 autogen
 streamlit==1.27.2
