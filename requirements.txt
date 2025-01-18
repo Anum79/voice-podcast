@@ -1,0 +1,8 @@
+tempfile
+os
+openai==0.27.0
+python-dotenv==1.0.0
+autogen
+streamlit==1.27.2
+audio-recorder-streamlit==0.2.0
+gTTS==2.3.1
